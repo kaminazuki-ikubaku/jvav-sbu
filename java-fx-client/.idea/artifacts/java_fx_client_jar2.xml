@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-fx-client:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_fx_client_jar2</output-path>
+    <root id="archive" name="java-fx-client.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="java-fx-client" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../javafx-sdk-17.0.1/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1" />
+      <element id="library" level="project" name="Maven: org.springframework.security:spring-security-crypto:6.0.0" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../javafx-sdk-17.0.1/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:17-ea+11" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../javafx-sdk-17.0.1/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-web:17-ea+11" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.6" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../javafx-sdk-17.0.1/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../javafx-sdk-17.0.1/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../javafx-sdk-17.0.1/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:17-ea+11" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../javafx-sdk-17.0.1/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.1" />
+      <element id="library" level="project" name="Maven: org.apache.pdfbox:pdfbox:2.0.24" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-swing:17.0.2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../javafx-sdk-17.0.1/lib/javafx.fxml.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
